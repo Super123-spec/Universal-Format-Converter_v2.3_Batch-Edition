@@ -1,0 +1,6 @@
+*.exe
+*.zip
+*.dll
+*.tmp
+Thumbs.db
+desktop.ini
