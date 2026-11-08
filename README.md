@@ -6,7 +6,7 @@ Windows 桌面端的一站式格式转换工具。图纸、Office 文档、PDF�
 
 ## 下载
 
-前往 [Releases](../../releases) 页面，下载 `万能格式转换器_v2.3_批量版.zip`，解压后双击 `万能格式转换器.exe` 即可运行。
+前往 [Releases](../../releases) 页面，下载 `Universal-Format-Converter_v2.3_Batch.zip`（177 MB），解压后双击 `万能格式转换器.exe` 即可运行。
 
 无需安装，DWG 引擎与 ffmpeg 已打包进程序内部。
 
